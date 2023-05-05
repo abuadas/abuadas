@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @abuadas
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Fullstack web development & Mobile Application development
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me ...
+      E-mail: ramaabuadas@gmail.com
+      LinkedIn: https://www.linkedin.com/in/rama-abuadas-6b1a29219
 
 <!---
 abuadas/abuadas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
